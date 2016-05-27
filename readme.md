@@ -12,15 +12,15 @@ For historic purposes only. This code do not work on modern browsers.
 
 CodePress
 
-![CodePress](https://raw.githubusercontent.com/fermads/codepress/master/codepress.jpg)
+![CodePress](https://raw.githubusercontent.com/fermads/codepress/images/master/codepress.jpg)
 
 CodePress on Wordpress v2.8
 
-![CodePressWordpress](https://raw.githubusercontent.com/fermads/codepress/master/googlemashupeditor-codepress.png)
+![CodePressWordpress](https://raw.githubusercontent.com/fermads/codepress/images/master/googlemashupeditor-codepress.png)
 
 CodePress on Google Mashup Editor
 
-![CodePressGoogleMashupEditor](https://raw.githubusercontent.com/fermads/codepress/master/wordpress-codepress.png)
+![CodePressGoogleMashupEditor](https://raw.githubusercontent.com/fermads/codepress/images/master/wordpress-codepress.png)
 
 -----------------------------
 ### Description from the original site
