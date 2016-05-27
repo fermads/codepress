@@ -1,13 +1,23 @@
 # CodePress
 
-For historic purposes only. This code does not work on modern browsers.
+### The first real-time code syntax highlighting engine on the web used by Google and Wordpress back in 2006-2008.
 
-CodePress was a source code syntax highlight engine I made as my final
-project for my bachelor's degree in computer science. At the time, making
-a real-time syntax highlighting engine on a browser was a hard task. Today,
-using modern browsers, this can be accomplished in many simpler ways.
+CodePress was a source code syntax highlight engine I made as the final
+project for my bachelor's degree in Computer Science. At the time, making
+a real-time syntax highlighting engine on a browser was a very hard task.
+Browsers did not have support for this feature. It was a big hack to make
+it work. Today, using modern browsers, this can be accomplished in simpler ways.
 
-Last release from september/2007
+For historic purposes only. This code do not work on modern browsers.
+
+CodePress
+![CodePress](https://raw.githubusercontent.com/fermads/codepress/master/codepress.jpg)
+
+CodePress on Wordpress v2.8
+![CodePressWordpress](https://raw.githubusercontent.com/fermads/codepress/master/googlemashupeditor-codepress.png)
+
+CodePress on Google Mashup Editor
+![CodePressGoogleMashupEditor](https://raw.githubusercontent.com/fermads/codepress/master/wordpress-codepress.png)
 
 -----------------------------
 ### Description from the original site
