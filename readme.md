@@ -11,12 +11,15 @@ it work. Today, using modern browsers, this can be accomplished in simpler ways.
 For historic purposes only. This code do not work on modern browsers.
 
 CodePress
+
 ![CodePress](https://raw.githubusercontent.com/fermads/codepress/master/codepress.jpg)
 
 CodePress on Wordpress v2.8
+
 ![CodePressWordpress](https://raw.githubusercontent.com/fermads/codepress/master/googlemashupeditor-codepress.png)
 
 CodePress on Google Mashup Editor
+
 ![CodePressGoogleMashupEditor](https://raw.githubusercontent.com/fermads/codepress/master/wordpress-codepress.png)
 
 -----------------------------
